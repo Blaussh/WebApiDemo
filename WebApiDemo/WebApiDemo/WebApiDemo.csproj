@@ -190,8 +190,10 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Book.cs" />
+    <Compile Include="Models\IRepository.cs" />
     <Compile Include="Models\Order.cs" />
     <Compile Include="Models\OrderDetail.cs" />
+    <Compile Include="Models\Repository.cs" />
     <Compile Include="Models\WebApiDemoContext.cs" />
     <Compile Include="Models\WebApiDemoContextInitializer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
